@@ -235,4 +235,3 @@ module.exports = function(RED) {
 	}
 	RED.nodes.registerType("FSMoutput", FSMoutput);
 }
-
